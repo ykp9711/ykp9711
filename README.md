@@ -16,3 +16,8 @@
 <img src="https://img.shields.io/badge/JS-E34F26?style=for-the-badge&logo=JAVASCRIPT&logoColor=white">
 <img src="https://img.shields.io/badge/JQUERY-E34F26?style=for-the-badge&logo=JQUERY&logoColor=white">
 </div>
+<br><br><br><br>
+<p align="center" dir="auto">️🧑Portfolio🧑️</p>
+<div align="center" dir="auto">
+  <a href="https://www.notion.so/Potfolio-852258bd139d48029160f58c1e11c0fc" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+  </div>
